@@ -1,7 +1,5 @@
 # Hey there! 👋
 
-**Full Stack Developer**
-
 I'm **Sahil** , a Full Stack Web Developer based in India.
 
 I build scalable web applications, real-time systems, and developer-focused products.
