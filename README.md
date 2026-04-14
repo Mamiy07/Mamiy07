@@ -24,6 +24,12 @@ PostgreSQL
 
 ### Projects
 
+
+**ImgStorage**
+Image storage API for developers.
+
+Live Link: https://imgstorage1.vercel.app
+
 **10MinTalk**
 Real-time private chat platform with temporary rooms, real-time messaging and automatic expiration.
 
